@@ -5,14 +5,16 @@ summary: "# Dixon City Council Special Meeting Summary — February 23, 2025
 
 ## Budget Season Kicks Off
 
-The Dixon City Council held a special work session to begin reviewing the proposed fiscal year 2027 budget, which will run from May 1, 2025, through April 30, 2026. City Manager Danny (surname not stated..."
+The Dixon City Council held a special work session to begin reviewing the proposed fiscal year 2027 budget, which will run from May 1, 2025, through April 30, 2026. City Manager Danny ..."
 ---
+
+**[Watch the full meeting video](https://www.facebook.com/share/v/1CCVmNFTLv/)**
 
 # Dixon City Council Special Meeting Summary — February 23, 2025
 
 ## Budget Season Kicks Off
 
-The Dixon City Council held a special work session to begin reviewing the proposed fiscal year 2027 budget, which will run from May 1, 2025, through April 30, 2026. City Manager Danny (surname not stated in transcript) led the presentation, with department heads walking the council through their individual budgets. Here's what citizens should know.
+The Dixon City Council held a special work session to begin reviewing the proposed fiscal year 2027 budget, which will run from May 1, 2025, through April 30, 2026. City Manager Danny Langloss led the presentation, with department heads walking the council through their individual budgets. Here's what citizens should know.
 
 ---
 
