@@ -8,11 +8,11 @@ disableKinds = ["RSS"]
   defaultTheme = "light"
   ShowReadingTime = true
   ShowPostNavLinks = true
-  description = "Automated transcripts and summaries of Dixon, Illinois city council meetings"
+  description = "Automated summaries of Dixon, Illinois city council meetings"
 
 [params.homeInfoParams]
   Title = "Dixon City Council Watch"
-  Content = "Keeping Dixon residents informed with AI-generated transcripts and summaries of city council meetings."
+  Content = "Keeping Dixon residents informed with AI-generated summaries of city council meetings."
 
 [author]
   name = "Dixon Council Watch"
