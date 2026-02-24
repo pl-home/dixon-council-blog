@@ -1,10 +1,7 @@
 ---
 title: "Dixon City Council Meeting - February 17, 2026"
 date: 2026-02-17
-summary: "Dixon City Council Meeting Summary — February 17, 2026
-
-**Present:** Mayor Hughes, Councilmen Ores, Veneer, Bishop, and Considine.
-
+summary: "Summary of the Dixon City Council meeting held on February 17, 2026."
 ---
 
 ## Black History Month Recognition
