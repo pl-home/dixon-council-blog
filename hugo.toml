@@ -12,7 +12,15 @@ disableKinds = ["RSS"]
 
 [params.homeInfoParams]
   Title = "Dixon City Council Watch"
-  Content = "Keeping Dixon residents informed with AI-generated summaries of city council meetings  This site is a personal project by an amateur.  AI-generated summaries are no replacement for real reporting.  Refer to the meeting video for authoritative information."
+  Content = "Keeping Dixon residents informed with AI-generated summaries of city council meetings.  Typos and errors may exist!  Refer to the meeting video for authoritative information. This is an amateur attempt at using AI to make city government more accessible and transparent for your average citizen.
+
+My name is Ryan Latvaitis and I'm a resident of Dixon, IL. I try to keep up with local affairs but find it challenging to make time to watch the videos that Dixon records of our council meetings. I had the idea of using AI tools like Claude to create a transcript, summarize it, and publish it on a website.
+
+The current workflow is for me to manually copy a link to the video of the meeting, and manually title and date the video. Then the audio is extracted into a .wav file. The audio is transcribed locally using Whisper. The resulting text file is fed to Claude's API using the Opus 4.6 model. That summary is published on Github Pages using Hugo.
+
+90% of what I just said I just learned today. I suppose I should use the term "learned" carefully - I coached Claude to help me do these things.
+
+This is a work in progress, and currently (and perhaps will remain) a vibe-coded mess! If you have suggestions on how to improve this, let me know."
 
 [author]
   name = "Dixon Council Watch by Ryan Latvaitis"
