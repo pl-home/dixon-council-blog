@@ -1,86 +1,89 @@
 ---
-title: "Dixon City Council Meeting - February 17, 2026"
+title: "budget"
 date: 2026-02-17
-summary: "Summary of the Dixon City Council meeting held on February 17, 2026."
+summary: "Dixon City Council Meeting Summary February 17, 2026 Black History Month Recognition Takes Center Stage The council's regular meeting opened with its ninth annual Black History Month celebration, organized by Councilman Mike Veneer. This year mark..."
 ---
 
-## Black History Month Recognition
-
-The council devoted the first portion of the meeting to its ninth annual Black History Month celebration, featuring the Ik..."
----
-
-**[Watch the full meeting video](https://www.facebook.com/share/v/1AgNHLxsMv/)**
+**[Watch the full meeting video](https://www.facebook.com/share/v/18FMJxBwuQ/)**
 
 ---
 
-# Dixon City Council Meeting Summary — February 17, 2026
+# Dixon City Council Meeting Summary
+## February 17, 2026
 
-**Present:** Mayor Hughes, Councilmen Ores, Veneer, Bishop, and Considine.
+**Black History Month Recognition Takes Center Stage**
 
----
+The council's regular meeting opened with its ninth annual Black History Month celebration, organized by Councilman Mike Veneer. This year marks the 100th anniversary of what began as Negro History Week in 1926.
 
-## Black History Month Recognition
+**Ike Mercer Certificate of Achievement** was awarded to **Dantron Dodd**, co-owner of T&D Barbecue and co-founder of WestFest, a community festival entering its third year this September. Previous award winner Diamond Robinson, currently serving with the U.S. Navy's Task Force 55 in Bahrain, introduced Dodd via video call. Rashad Lane presented the award in person.
 
-The council devoted the first portion of the meeting to its ninth annual Black History Month celebration, featuring the Ike Mercer Certificate of Achievement Award, named for the late community volunteer.
+The **Lifetime Achievement Award** went posthumously to **George W. Reed** (1919–), a World War II Buffalo Soldier who rode with the 9th and 10th Cavalry, a prize fighter in New York City under the ring name Kit Colby, a Golden Gloves trainer in Dixon, and co-founder of the Girls Ponytail Softball League. His son Terry accepted the award.
 
-**This year's Ike Mercer Award** went to **Dantron Dodd**, co-owner of T&D Barbecue and co-founder of WestFest, an annual September community festival now entering its third year. Dodd was introduced by previous award winner Rashad Lane and received a video message from **Diamond Robinson**, a past recipient currently serving in the U.S. Navy in Bahrain with Task Force 55. Dodd thanked his family, supporters, and co-founder Brandon Hill of Bee's Lemonade.
-
-**The Lifetime Achievement Award** was presented posthumously to **George W. Reed** (1919–), a World War II Buffalo Soldier who served with the 9th and 10th Cavalry, a prize fighter in New York under the ring name Kit Colby, a Golden Gloves trainer in Dixon, and co-founder of the Girls Ponytail Softball League. His son Terry accepted the award. Councilman Veneer, who organizes the annual recognition, noted the celebration marks the 100th anniversary of what began as Negro History Week in 1926.
-
-Several council members also noted the passing of **Rev. Jesse Jackson**, who died earlier that day.
+Pastor Michael Cole of the Worship Center gave the invocation and noted the passing of Rev. Jesse Jackson, which Councilman Considine also acknowledged during council reports.
 
 ---
 
-## Routine Business
+**Claims and Finances**
 
-- **Minutes** from the February 2 regular and executive sessions were approved unanimously.
-- **Total labor and outside claims** of **$1,971,084.07** were approved. Mayor Hughes noted that over half of the outside claims amount was the city reinvesting in its own certificates of deposit ($1 million). Other notable expenditures included $193,582 for wastewater treatment plant improvements and $125,695 for second-floor work at the public safety building.
-- **Year-to-date financials** through January 2026 were accepted.
+The council approved $1,971,084.07 in total labor and outside claims. Mayor Hughes noted that more than half — a $1 million CD — was the city reinvesting its own money. Other significant expenditures included $193,582 for wastewater treatment plant improvements and $125,695 for public safety building second-floor work. Year-to-date financials through January 2026 were accepted without discussion.
 
 ---
 
-## IT and Cybersecurity Report
+**IT and Cybersecurity Report**
 
-IT Director **Phil Hauer** gave the council an overview of the department's work, emphasizing that cybersecurity — not hardware repair — now dominates his workload. Key points:
+IT Director Phil Hauer told the council that cybersecurity — not hardware repair — now dominates his department's work. Key points:
 
-- **Mandatory cybersecurity training** for all city employees has been in place since 2023, per state law. Monthly phishing tests have been effective; employees now routinely flag suspicious emails rather than clicking on them.
-- **Network vulnerability scanning** runs weekly using in-house software, which is cheaper and more current than one-time third-party audits. The city has significantly reduced its exposure to potential intrusions.
-- **"Zero Trust" software** blocks any unapproved programs from running on city computers, preventing malware from executing even if an employee clicks a bad link.
-- **Cloud migration** is underway for the LaserFiche document management system and Casel finance software. The police department's LaserFiche migration is expected this summer. The moves should reduce hardware costs over time.
-- A **new email spam filter** is being implemented soon.
-
----
-
-## Motions and Approvals
-
-**Self-storage special use petition:** A petition from Minify Self-Storage Genoa LLC was referred to the Plan Commission. No details were discussed; this is a procedural step.
-
-**Emergency generator repair at the public safety building:** The council waived the formal bid process and approved a **$36,649** emergency repair by Helm Electric to replace a failed transfer switch in the building's generator system. City staff explained that without the repair, the building — which houses IT infrastructure for both the public safety building and city hall — has only about 15 minutes of battery backup during a power outage. The generator, when functioning, powers the entire building except air conditioning condensers and kicks in within 60 seconds.
-
-**Tactical communication headsets:** The council approved spending **$40,726.74** on 27 helmet-mounted communication headsets for the multi-agency Joint Operations Group (SWAT team), which includes Dixon PD, Lee County Sheriff, and both city and rural fire departments. The Deputy Chief noted that over $17,000 was raised through fundraising from local donors and businesses. The remainder comes from existing funds across the participating agencies. The headsets also provide hearing protection.
-
-**2026 Chevrolet Tahoe police vehicle:** Approved for purchase from Carl Emergency Vehicles, which will also handle the police equipment installation — described as a "turnkey" arrangement. The vehicle was set aside by the dealer in December. Council members discussed the ongoing tension between supporting local vendors and the practical reality that few local shops can handle police vehicle upfitting in a timely manner. The Deputy Chief indicated recent conversations with the chief are aimed at developing a better long-term approach to vehicle purchasing. **Funding comes from the DUI fund** (see below), requiring no new money.
-
-**DUI fund budget amendment:** The council approved moving **$90,000** within the police DUI fund from one line item to the vehicle line item to pay for the Tahoe. No new funds involved.
-
-**Collateral assignment — Dixon Lodging/Sauk Valley Bank:** The council approved acknowledging a collateral assignment of TIF (Tax Increment Financing) funds between Dixon Lodging LLC and Sauk Valley Bank. The city stressed this creates no financial obligation for Dixon — it simply acknowledges the bank's collateral interest in future TIF payments.
-
-**Disposal of police vehicles:** Four aging police vehicles were approved for sale via online auction: a 2009 Chevy Tahoe, a 2011 Ford F-150, a 2011 Ford Edge, and a 2013 Dodge Charger (the current SRO vehicle). One council member noted that residents had asked why so many police vehicles sit unused in the public safety building parking lot.
-
-**Street department budget transfer:** A **$15,000** transfer within the street department budget — from full-time salaries to maintenance and repairs — was approved to cover dump truck breakdowns during plowing season. No new money.
-
-**Water department budget transfer:** A **$15,000** shift from repair/maintenance to engineering was approved to cover unplanned costs related to a grant application and new IEMA regulatory compliance. No new money.
-
-**Closed session minutes review:** A routine resolution regarding previously reviewed executive session minutes was approved.
+- **Mandatory cybersecurity training** for all city employees has been in place since 2023, as required by state law. Phishing test emails have proven effective; employees now regularly flag suspicious messages rather than clicking on them.
+- **Cloud migration** is underway for the city's LaserFish document management and Casel finance software, which should reduce hardware costs over time.
+- **Weekly network vulnerability scanning** has significantly reduced the city's exposure to potential intrusions.
+- A **"Zero Trust" program** blocks any software not on an approved list from running on city computers, preventing malware downloads.
+- A **new email spam filter** will be rolled out soon.
 
 ---
 
-## Council Comments
+**Emergency Generator Repair — Public Safety Building**
 
-- **Mayor Hughes** highlighted five Dixon High School wrestlers advancing to state competition, with two potential alternates, and expressed hope for the girls wrestling program as well.
-- **Councilman Bishop** added that the wrestling team won regionals and sectionals and will compete for a team trophy in Bloomington. He also recognized **SRO (School Resource Officer) Week**, praising officers Matt Coffey and Ryan McQuethy for their work in Dixon schools, noting the relationships they build with students go well beyond law enforcement.
-- **Councilman Considine** thanked Veneer for his Black History Month efforts and paid tribute to Rev. Jesse Jackson.
-- **Councilman Ores** echoed the SRO recognition.
-- **Councilman Veneer** kept it simple: "Dixon's just a great place to call home."
+The council waived the formal bid process and approved a $36,649 emergency repair to the Public Safety Building's electrical transfer switch, which failed during a routine test. Without the repair, the building — which also houses IT systems serving City Hall — relies on battery backup lasting only about 15 minutes during a power outage. Helm Electric will handle the work using a transfer switch already in stock, avoiding a lengthy wait for parts.
 
-The meeting adjourned with no further business. No public comments were made.
+---
+
+**Tactical Communication Headsets — $40,726.74**
+
+The council approved the purchase of 27 tactical communication headsets for the multi-agency Joint Operations Group (SWAT team), which includes Dixon PD, Lee County Sheriff's Office, and both city and rural fire departments. More than $17,000 was raised through fundraising to offset the cost. Deputy Chief explained that communication failures have been the team's "Achilles heel" and that the new headsets, which mount to ballistic helmets, will also protect hearing during gunfire.
+
+---
+
+**New Police Vehicle — 2026 Chevrolet Tahoe**
+
+The council approved the purchase of a 2026 Chevrolet Tahoe with police package from Carl Emergency Vehicles. The vehicle was set aside by the vendor in December. Funding comes from the police DUI fund ($90,000 transferred to the vehicle line item) — no new money. Discussion touched on the council's preference for using local vendors, but members acknowledged that the turnkey approach — buying the vehicle and having it upfitted in one place — avoids months of delay. The council and police leadership indicated they plan to develop a more systematic vehicle replacement approach going forward.
+
+---
+
+**Disposal of Four Police Vehicles**
+
+The council authorized selling four aging police vehicles through online auction: a 2009 Chevy Tahoe, a 2011 Ford F-150, a 2011 Ford Edge, and a 2013 Dodge Charger (used as a school resource officer vehicle). A question about vehicles sitting in the Public Safety Building parking lot prompted a brief, lightly humorous exchange.
+
+---
+
+**Budget Transfers (No New Money)**
+
+- **Street Department:** $15,000 shifted from salaries to maintenance and repairs to cover unexpected dump truck breakdowns during plowing season.
+- **Water Department:** $15,000 shifted from repair/maintenance to engineering for unplanned work related to a grant application and new IEMA regulatory compliance.
+
+---
+
+**Other Business**
+
+- A petition for a special use from **Minify Self Storage Genoa LLC** was referred to the Plan Commission.
+- A **collateral assignment** between Dixon Lodging LLC and Sauk Valley Bank regarding TIF funds was approved. The city emphasized this creates no financial obligation for Dixon — it merely acknowledges the TIF funds are assigned as collateral.
+- **Closed session minutes** from a prior executive session review were approved.
+
+---
+
+**Council Reports of Note**
+
+- **Dixon High School wrestling:** Five wrestlers are headed to the individual state tournament, with two alternates possible. The team also won regionals and sectionals and will compete for a team trophy in Bloomington.
+- **School Resource Officer Week:** Councilman Bishop highlighted officers Matt Coffey and Ryan McQuethy, calling their daily presence in schools "invaluable" — especially given Dixon's history with a school shooting.
+- Mayor Hughes noted a recent tour of the Public Safety Building and called it impressive.
+
+The meeting adjourned after completing all agenda items.
