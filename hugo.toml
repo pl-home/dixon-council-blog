@@ -12,7 +12,7 @@ disableKinds = ["RSS"]
 
 [params.homeInfoParams]
   Title = "Dixon City Council Watch"
-  Content = "Keeping Dixon residents informed with AI-generated summaries of city council meetings."
+  Content = "Keeping Dixon residents informed with AI-generated summaries of city council meetings  This site is a personal project by an amateur.  AI-generated summaries are no replacement for real reporting.  Refer to the meeting video for authoritative information."
 
 [author]
-  name = "Dixon Council Watch"
+  name = "Dixon Council Watch by Ryan Latvaitis"
