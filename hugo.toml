@@ -16,3 +16,8 @@ disableKinds = ["RSS"]
 
 [author]
   name = "Dixon Council Watch by Ryan Latvaitis"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
