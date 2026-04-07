@@ -51,7 +51,7 @@ Langloss offered a note of fiscal reality: the Community Development Fund that s
 
 ## Public Comment
 
-**Ryan Levitas** of Chamberlain Street addressed the council about graffiti on the Berlin Wall monument in Freedom Park. Someone had spray-painted "Revolt" and "Give me liberty or give me death" on the wall, and the city painted over it. Levitas argued the monument is dedicated to free expression and urged the council to leave the wall in its current messy state as a reflection of the times. Langloss acknowledged the city covered more than intended but said profane additions couldn't remain.
+**Ryan Latvaitis** of Chamberlin Street addressed the council about graffiti on the Berlin Wall monument in Freedom Park. Someone had spray-painted "Revolt" and "Give me liberty or give me death" on the wall, and the city painted over it. Latvaitis argued the monument is dedicated to free expression and urged the council to leave the wall in its current messy state as a reflection of the times. Langloss acknowledged the city covered more than intended but said profane additions couldn't remain.
 
 **Brian Schroeder**, a seventh-grader working toward Eagle Scout, introduced himself as part of a communications merit badge requirement. The council welcomed him warmly.
 
@@ -69,7 +69,7 @@ Langloss covered several items:
 
 - **Emergency management**: A tornado narrowly missed Dixon the previous week. Chief Ryan Bivins served as interim Emergency Management Director and handled siren decisions. Langloss reminded residents that when sirens sound, they should seek shelter immediately.
 - **Grants from Congressman LaHood**: The police department received a **$400,000 grant** for radio systems. The city previously received **$2 million for the Bloody Gulch detention/retention project**. On the day of the meeting, word came of a **$1.4 million grant for Dixon Family YMCA renovations**, with the city as primary recipient and the Y as sub-recipient. Additional pending grants include $1.7-1.8 million for culvert projects and $700,000 for a seawall.
-- **Development**: Tropical Smoothie is expected to open by month's end. Another unannounced project is in the works. Ted Varr has broken ground at **Pierips Landing**, which will add 72 new homes over four to five years. Work continues on a 55-and-older housing development. Combined, these projects would add more than 100 new addresses to Dixon.
+- **Development**: Tropical Smoothie is expected to open by month's end. Another unannounced project is in the works. Ted Hvarre has broken ground at **Pirups Landing**, which will add 72 new homes over four to five years. Work continues on a 55-and-older housing development. Combined, these projects would add more than 100 new addresses to Dixon.
 - The **5th Annual Midwest Summit on Leadership** is set for May 21 at the Dixon Historic Theatre, expected to draw 500-plus attendees.
 
 ## Council Reports
@@ -1741,7 +1741,7 @@ Councilman Whitt watched thelàt
 
 You seem to be staying in the seat.
 Yeah.
-everybody decided to take vacations and Mr. Shipman had surgery, so decided I'd�을
+everybody decided to take vacations and Mr. Shipman had surgery, so decided I'd 을
 They said I like to talk to you guys, so they gave me the mic this time.
 This one actually touches a few different budgets.
 It's going to touch the cemetery, the public properties, as well as the team crisis coordinator.
