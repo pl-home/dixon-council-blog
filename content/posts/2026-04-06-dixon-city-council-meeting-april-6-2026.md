@@ -92,7 +92,7 @@ Five internal budget transfers were approved across administration, police, publ
 
 - **Street closures** approved for the full slate of 2026 Discover Dixon events, plus the Dixon High School Homecoming Dance and a Rock River Garden Club event
 - **Road use agreement** with Meadow Solar LLC for truck traffic related to a solar array being installed at the Dixon Park District facility on Washington Avenue — approximately 30 semi loads, mostly at the front end of the project, with completion expected before summer's end
-- **Resolution opposing state preemption of local zoning authority**: Mayor Hughes introduced a resolution pushing back against Governor Pritzker's proposed "build plan" legislation that would limit or remove municipal control over zoning, building codes, parking requirements, and accessory dwelling units. Hughes said he doesn't disagree with everything in the proposals but believes municipalities should control their own planning. Copies will be sent to the Illinois Municipal League, Senator Arilano, and Representative Fritz.
+- **Resolution opposing state preemption of local zoning authority**: Mayor Hughes introduced a resolution pushing back against Governor Pritzker's proposed "build plan" legislation that would limit or remove municipal control over zoning, building codes, parking requirements, and accessory dwelling units. Hughes said he doesn't disagree with everything in the proposals but believes municipalities should control their own planning. Copies will be sent to the Illinois Municipal League, Senator Arellano, and Representative Fritts.
 
 The meeting adjourned after completing all agenda items.
 
