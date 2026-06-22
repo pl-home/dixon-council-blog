@@ -1,12 +1,13 @@
----
-title: "Dixon City Council Meeting April 20, 2026"
-date: 2026-04-20
+\---
+
+title: "Dixon City Council Meeting April 21, 2026"
+date: 2026-04-21
 summary: "Dixon City Council Meeting Summary - April 21, 2026 Police Officers Honored for Saving a Life The meeting opened with Police Chief Ryan Bivins presenting Lifesaving Awards to Sergeant Dietz, Officer DeHaan, and Officer White. On March 17, the thre..."
 ---
 
-**[Watch the full meeting video](https://www.facebook.com/share/v/18Xy3gikfn/)**
+[**Watch the full meeting video**](https://www.facebook.com/share/v/18Xy3gikfn/)
 
----
+\---
 
 # Dixon City Council Meeting Summary — April 21, 2026
 
@@ -22,11 +23,11 @@ Spencer Thompson, 18, joined the meeting via Zoom from college roughly a thousan
 
 Tom Demmer of the Lee County Industrial Development Association delivered his annual update. Key points:
 
-- **Existing business support:** Companies including Rainer Garage Doors, Bunnell Industries, Sewer Equipment Company, and RP Lumber have continued to invest locally. LCIDA and Discover Dixon organized a manufacturing hiring fair on short notice after Wahl Clipper announced layoffs in Sterling, drawing dozens of job seekers.
-- **Power capacity:** ComEd is engineering an additional feeder line to the Dixon Industrial Park to support advanced manufacturing's growing electricity demands.
-- **Solar energy:** Two large solar projects in Lee County — South Dixon Solar and the even larger Stewart Creek Solar — could pair local renewable generation with power-hungry users scouting sites.
-- **Demolition grants:** The city and Lee County used Strong Communities Grant funds to demolish blighted homes, including three LCIDA-owned houses on West First Street in the Viaduct Point redevelopment area. Those lots are now cleared and ready for commercial and residential development.
-- **Opportunity Zones 2.0:** Two Dixon-area census tracts — southwest Dixon and a southeastern tract stretching to the tollway and the 65-acre city-owned parcel behind Walmart — are the only tracts in Lee County eligible for new federal Opportunity Zone designation. Nominations are due April 30, with decisions expected by July 1. The program offers enhanced tax benefits steered toward rural communities.
+* **Existing business support:** Companies including Rainer Garage Doors, Bunnell Industries, Sewer Equipment Company, and RP Lumber have continued to invest locally. LCIDA and Discover Dixon organized a manufacturing hiring fair on short notice after Wahl Clipper announced layoffs in Sterling, drawing dozens of job seekers.
+* **Power capacity:** ComEd is engineering an additional feeder line to the Dixon Industrial Park to support advanced manufacturing's growing electricity demands.
+* **Solar energy:** Two large solar projects in Lee County — South Dixon Solar and the even larger Stewart Creek Solar — could pair local renewable generation with power-hungry users scouting sites.
+* **Demolition grants:** The city and Lee County used Strong Communities Grant funds to demolish blighted homes, including three LCIDA-owned houses on West First Street in the Viaduct Point redevelopment area. Those lots are now cleared and ready for commercial and residential development.
+* **Opportunity Zones 2.0:** Two Dixon-area census tracts — southwest Dixon and a southeastern tract stretching to the tollway and the 65-acre city-owned parcel behind Walmart — are the only tracts in Lee County eligible for new federal Opportunity Zone designation. Nominations are due April 30, with decisions expected by July 1. The program offers enhanced tax benefits steered toward rural communities.
 
 ## FY 2026–27 Budget Approved
 
@@ -44,14 +45,14 @@ The council voted to reduce the number of Class I and I-1 liquor licenses — wh
 
 Four internal budget amendments passed unanimously:
 
-- **Library:** Shifted funds from full-time salaries to part-time wages and library materials (no new money).
-- **Municipal Band:** Moved $2,350 from unused operating and travel lines to cover the spring concert and St. Patrick's Day parade.
-- **Police:** Transferred $8,500 from the social worker medical insurance line to uniforms and small tools/equipment.
-- **Water Department:** Added $25,000 for rising chemical costs (fluoride, phosphate, etc.) and $5,000 for information technology upgrades.
+* **Library:** Shifted funds from full-time salaries to part-time wages and library materials (no new money).
+* **Municipal Band:** Moved $2,350 from unused operating and travel lines to cover the spring concert and St. Patrick's Day parade.
+* **Police:** Transferred $8,500 from the social worker medical insurance line to uniforms and small tools/equipment.
+* **Water Department:** Added $25,000 for rising chemical costs (fluoride, phosphate, etc.) and $5,000 for information technology upgrades.
 
 ## Airport Runway Engineering Agreement Updated
 
-The council approved an updated construction engineering agreement with Crawford, Murphy & Tilly for rehabilitation of Runway 12-30 at the Dixon Airport. Delays between IDOT's Division of Aeronautics and the contractor pushed the not-to-exceed price from $107,400 to $115,900. Funding remains 90% federal, 5% state, and 5% city.
+The council approved an updated construction engineering agreement with Crawford, Murphy \& Tilly for rehabilitation of Runway 12-30 at the Dixon Airport. Delays between IDOT's Division of Aeronautics and the contractor pushed the not-to-exceed price from $107,400 to $115,900. Funding remains 90% federal, 5% state, and 5% city.
 
 ## Seven Brew Coffee Coming; Two Redevelopment Agreements Approved
 
@@ -70,27 +71,28 @@ Cameron Magni, stepping into the water department manager role, reported that th
 
 ## Council Notes
 
-- Councilman Chris Bishop promoted the America 250 event calendar now live on DiscoverDixon.com, including a June 27 ball at the Loveland Community Center benefiting the Wounded Warrior Project, featuring the Yorkville Big Band and the Time Bandits.
-- Councilman Dennis Considine shared that a visit to a church celebration in a neighboring community reinforced that people travel to Dixon specifically for petunias, restaurants, and shops.
-- Councilwoman Mary Oros highlighted the cooperative spirit among downtown boutiques, which organized a joint event welcoming the reopened J's Boutique.
-- Councilman Mike Venier noted the police department's newly released 59-page annual report, now available to the public, and flagged pending state legislation on e-bikes and "micromobility devices" that Chief Bivins and City Attorney Robert LeSage have been tracking.
-- Public Works Director Matt Heckman was recognized as Dixon's Citizen of the Year at Friday's Chamber/Main Street gala.
+* Councilman Chris Bishop promoted the America 250 event calendar now live on DiscoverDixon.com, including a June 27 ball at the Loveland Community Center benefiting the Wounded Warrior Project, featuring the Yorkville Big Band and the Time Bandits.
+* Councilman Dennis Considine shared that a visit to a church celebration in a neighboring community reinforced that people travel to Dixon specifically for petunias, restaurants, and shops.
+* Councilwoman Mary Oros highlighted the cooperative spirit among downtown boutiques, which organized a joint event welcoming the reopened J's Boutique.
+* Councilman Mike Venier noted the police department's newly released 59-page annual report, now available to the public, and flagged pending state legislation on e-bikes and "micromobility devices" that Chief Bivins and City Attorney Robert LeSage have been tracking.
+* Public Works Director Matt Heckman was recognized as Dixon's Citizen of the Year at Friday's Chamber/Main Street gala.
 
 The meeting adjourned after all agenda items were completed.
 
----
+\---
 
 <details>
 <summary><strong>Click to view full transcript</strong></summary>
 
 
-**[1:00]**
+
+**\[1:00]**
 
 I have 530.
 It's time to call the regular council meeting of the city of Dixon to order.
 Roll call, please.
 
-**[2:00]**
+**\[2:00]**
 
 Councilman Orris?
 Here.
@@ -110,7 +112,7 @@ Almighty God, Lord of life, we thank you for the gift of human life
 and especially for those public servants who risk their own lives to protect our citizens.
 We especially give you thanks for the great heroic deeds of Sergeant Dietz, Officer DeHaan,
 
-**[3:00]**
+**\[3:00]**
 
 and Officer White as they receive their well-deserved award.
 Guide all of our deliberations throughout this evening
@@ -132,7 +134,7 @@ So we do, our officers do really awesome things all the time.
 I know people say it's part of the job, but it's important to recognize those that do well
 and that go above and beyond and that, you know, it's the little things that matter.
 
-**[4:00]**
+**\[4:00]**
 
 I always tell our officers that the details matter, and we take care of our citizens just like their family.
 So very proud to present these awards tonight.
@@ -146,7 +148,7 @@ Upon arrival, Officer White observed the garage lights were on and heard a vehic
 Sergeant Dietz arrived shortly after and immediately broke out the garage windows in an effort to ventilate the area.
 You obtained breaching tools and forced entry into the residence, making your way to the garage.
 
-**[5:00]**
+**\[5:00]**
 
 Once inside, Officer White and Officer DeHaan removed the unresponsive person from the vehicle and moved them to fresh air.
 After determining they had no pulse, Officer White immediately began chest compressions while Officer DeHaan assisted.
@@ -162,7 +164,7 @@ There is no doubt that your actions were instrumental in this outcome.
 Thank you.
 This incident serves as a powerful reminder of the work that you do every day and the impact you have on the lives of others.
 
-**[6:00]**
+**\[6:00]**
 
 It is important that we take time to recognize such efforts, because every life matters.
 Congratulations on the Life Saving Award.
@@ -177,25 +179,25 @@ But nonetheless, this was a, you know, I went back and watched the body cam vide
 Very decisive, very, they worked together as a team.
 and that was awesome to see so great job guys
 
-**[7:00]**
+**\[7:00]**
 
 yeah
 yeah
 
-**[8:00]**
+**\[8:00]**
 
 yeah
 yeah
 Hey, you got a phone or she got it?
 Hey, you got a phone or she got it?
 
-**[9:00]**
+**\[9:00]**
 
 Hey, you got a phone or she got it?
 Hey, you got a phone or she got it?
 Hey, you got a phone or she got it?
 
-**[10:00]**
+**\[10:00]**
 
 Hey, you got a phone or she got it?
 Okay, let us continue.
@@ -215,7 +217,7 @@ How's it going?
 Great!
 Yep.
 
-**[11:00]**
+**\[11:00]**
 
 Perfect.
 Perfect.
@@ -239,7 +241,7 @@ good boy and as you are all more than aware
 a project rock is nearing completion and from the photos I've seen and the
 articles I've read it does not yet have a permanent name
 
-**[12:00]**
+**\[12:00]**
 
 and that's the issue I'm here to speak with you on.
 I propose the thoughtfully created name of Petunia Crossing.
@@ -258,7 +260,7 @@ And for the next 66 years that flower has lined Dixon's most
 iconic roads which have made tens of millions of commutes
 that much more pretty and enjoyable. And being that Clash of Rock will be in
 
-**[13:00]**
+**\[13:00]**
 
 addition to the city's infrastructure network
 I believe there is a compelling reason to also adorn this bridge with a flower
@@ -276,7 +278,7 @@ projects in Dixon when they get given a name,
 that's too broad and too common. Take, for example, the Curia Avenue Bridge
 or its efficient name of the Veterans Memorial Bridge.
 
-**[14:00]**
+**\[14:00]**
 
 Yet, but because of how frequently that gets used, it has fallen out of use with the public
 and I think it would be regrettable for that to happen again with one of the city's
@@ -292,7 +294,7 @@ Anybody have any specific questions of you?
 No, that was fantastic. Thank you so much, Spencer.
 Have a good evening, sir.
 
-**[15:00]**
+**\[15:00]**
 
 Thank you, Spencer.
 All right. We'll move on to the work session.
@@ -310,7 +312,7 @@ Or get updates on, because there's a lot happening, and that's a really good thi
 but it also makes it tough to fit into an annual presentation.
 So please let this go any direction that you'd like.
 
-**[16:00]**
+**\[16:00]**
 
 So at L.C.I.D.A., we've really been appreciative of the opportunity to be a part of the development
 team in the City of Dixon, and I really mean it's a team.
@@ -324,7 +326,7 @@ There are no two
 private business projects that look exactly the same. And so the skills and the tools that you
 need to make a project successful really are dependent upon the specific circumstances and
 
-**[17:00]**
+**\[17:00]**
 
 factors of that case. So it's been a pleasure to work with the folks from the City of Dixon
 employees directly, with Discover Dixon, with our private sector partners, to try to
@@ -338,7 +340,7 @@ of development. One is thinking about a general place.
 existing businesses who are here in Dixon today and trying to support their efforts, trying to
 ensure that they can be successful after they've already made that first commitment to an investment
 
-**[18:00]**
+**\[18:00]**
 
 in the city. We do that through a number of different avenues, trying to make them aware
 of different incentives that might be available when they have expansion projects or adding
@@ -352,7 +354,7 @@ career opportunities exist in the community and help them understand a little bi
 necessary to pursue that career path, whether they need a degree or a certification or certain
 years of experience. But we also had an interesting opportunity over this past year to partner
 
-**[19:00]**
+**\[19:00]**
 
 in a really kind of spur-of-the-moment decision with Discover Dixon when it was announced that
 Wahl Clipper was laying off employees in Sterling. And we thought, a lot of these folks, we know
@@ -364,7 +366,7 @@ a job in the Sauk Valley area. What can we do to quickly respond to that? And so
 Dixon's office, and that invited specifically manufacturers in the city of Dixon with current
 job openings. So a little different focus than kind of educating people about longer-run career
 
-**[20:00]**
+**\[20:00]**
 
 paths, but said, who's hiring today, and how can we give them the opportunity to match up with
 people who are looking for jobs today? And that was a, even with that short of notice, we had
@@ -377,7 +379,7 @@ opportunity arises. A couple of other things on the little bit longer-run perspe
 about is out-of-pocket. So we've got a lot of people that are out-of-pocket, and we've got a lot of
 sort of community artists. Our organization is at
 
-**[21:00]**
+**\[21:00]**
 
 the heart of that process. So in those areas, people that are using their venues and Panda Exches tips,
 they get to know where they're coming from. They want to hear about Boy-Up. These are folks that are
@@ -391,7 +393,7 @@ Economic Opportunity and through private developers to understand where
 do we stand in our in our profile that we have to offer with existing property
 and through that one of the things that we identified was a challenge and this
 
-**[22:00]**
+**\[22:00]**
 
 is not unique to Dixon but a challenge in many communities across the state are
 was access to higher levels of power so on the electricity delivery side many
@@ -407,7 +409,7 @@ a project to increase by adding an additional feeder line out to the
 industrial park to give us a better electrical capacity and reliability for
 the both current customers and future customers in that area we've also as
 
-**[23:00]**
+**\[23:00]**
 
 electricity seems to be sort of the hot buzzword in economic development right
 now we've also had a lot of good conversations with some of the solar
@@ -422,7 +424,7 @@ generation locally, renewable generation, with some of the larger power users th
 that are looking in the market for places that they can quickly build out and deploy new
 investments and new installments. A couple of other items just to quickly touch on as we look
 
-**[24:00]**
+**\[24:00]**
 
 towards the future. One of the good things that we've seen in the last year was the city's
 partnership with Lee County on the Strong Communities Grant that brought in money to
@@ -434,7 +436,7 @@ and filled in, excavated and filled in, and are three new lots that are ready fo
 in what will be a very exciting and promising commercial and residential redevelopment
 corridor. The last thing I'll mention before I kind of open it up is there's a project that
 
-**[25:00]**
+**\[25:00]**
 
 we're working on right now to identify in Dixon candidates' areas for a new program that the
 federal government's running. It's called Opportunity Zones, but it's Opportunity Zone 2.0.
@@ -445,7 +447,7 @@ they reauthorized the Opportunity Zone program, changed many of the criteria, an
 how you determine what sites are eligible. And after the federal government has run those
 new criteria and generated a map, there are two census tracts in all of Lee County that
 
-**[26:00]**
+**\[26:00]**
 
 are eligible for the Opportunity Zone designation. And that is, one, the existing Enterprise
 Zone we have, or the Opportunity Zone we have on southwest Dixon, as well as the census tract
@@ -457,7 +459,7 @@ in the county. And in fact, Ogle County has none that qualify, no census tracts 
 county. So we're working on a process to submit both of those for consideration to the state to be
 designated as Opportunity Zones. And without going really far into it, what that opens up is
 
-**[27:00]**
+**\[27:00]**
 
 additional financing opportunities for projects in that area by granting federal tax benefits to
 people who invest in those areas. Notably, with this version of the Opportunity Zone, there's a
@@ -470,7 +472,7 @@ positive partnership and team in the community working towards development. The 
 dirt you see moving today all around the city. And the prospects for future development at the
 industrial level, the commercial level, and the residential level remain very, very bright here.
 
-**[28:00]**
+**\[28:00]**
 
 And I think we have a number of tools at our disposal to make sure that Dixon is a place where,
 when folks choose where to invest, we are a finalist in a lot of categories,
@@ -483,7 +485,7 @@ next month is July 1st. And then those, it's planned to be announced by July 1st
 will be. It's a pretty short window. Yeah, it's a very quick opportunity, and we could see it on
 even some current projects. Any other questions? No, it's always great to have your report, Tom.
 
-**[29:00]**
+**\[29:00]**
 
 It's great to see the unified vision that's being shared through LCIDA, and great work. Thank you.
 Thank you. Thank you, Tom. Thank you. Thanks.
@@ -506,7 +508,7 @@ Mayor Hughes.
 Aye.
 Then moving on to approval of total labor and outside claims. Can I have a motion on that?
 
-**[30:00]**
+**\[30:00]**
 
 I move that the total labor and outside claims in the amount of $499,823.20 be approved and ordered
 paid.
@@ -528,7 +530,7 @@ Aye.
 Councilman Considine.
 Aye.
 
-**[31:00]**
+**\[31:00]**
 
 Mayor Hughes.
 Aye.
@@ -558,7 +560,7 @@ Packet and available online is the Veterans Memorial Park Commission report from
 Are there anything else that needs to be addressed?
 All right. Moving on to department reports. Also included is the building department permit list.
 
-**[32:00]**
+**\[32:00]**
 
 And I believe we also have a report from the water department.
 So our incoming water department manager is now in the hot seat.
@@ -572,7 +574,7 @@ The department currently has two major projects underway this year.
 The first is a multi-year main water main replacement project on the west end.
 Since March, the crew has installed approximately 1400 feet of new water main
 
-**[33:00]**
+**\[33:00]**
 
 during this construction season. Upon completion of this project, a total of 65 new water services
 will have been replaced from the water department. The water department will have to replace the water
@@ -586,7 +588,7 @@ measurable results. The second major project we have for the year is the recodin
 located near Culver's. The existing coding system has failed and requires full rehabilitation.
 We anticipate bringing this project forward for award at the next council meeting. At this time,
 
-**[34:00]**
+**\[34:00]**
 
 we are working through details related to the Verizon antennas currently installed on the
 structure to ensure the project can proceed without delays.
@@ -601,7 +603,7 @@ there's an open space to actually review or assess what's there at that time?
 Yeah. So like if there's galvanized in the ground or anything like that, the city steps in and,
 you know, coordinates with the plumber, the homeowner to make sure it's replaced.
 
-**[35:00]**
+**\[35:00]**
 
 Okay. I just, you know, I'm just saying it's a shame when you have something open,
 you might as well. Okay.
@@ -615,7 +617,7 @@ we'll move on to the city manager thank you mayor and council first of all i wan
 leadership of chief evans the way that he is shining a bright light on heroic life-saving
 efforts recognizing the officers and the team involved making our community know
 
-**[36:00]**
+**\[36:00]**
 
 how they're being served
 by our department is truly next level leadership
@@ -628,7 +630,7 @@ but the fact we do have multiple women's boutiques is a factor that adds into ma
 our downtown a destination and as i know from being married that when women go shopping they
 don't go to one location they go to all and they don't go for five minutes it's a it's an adventure
 
-**[37:00]**
+**\[37:00]**
 
 and so so having more people in our downtown on an adventure
 i do know when my wife goes downtown i hope she doesn't stop by to see mike at veneers because
@@ -641,7 +643,7 @@ now before they'd open so they were sending out free smoothies so people could g
 just excited to have them in dixon we first met them a couple years ago at the largest retail
 conference shopping center conference in the country and cool to see them here and then tonight
 
-**[38:00]**
+**\[38:00]**
 
 the council will consider an agreement
 with our developer because seven brew is coming to dixon and we'll be going right next to tropical
@@ -653,7 +655,7 @@ awesome yeah that's great that's going to be a busy place it's going to be a ver
 i know all right moving on um don't have a lot i just wanted to mention the um
 the chamber main street gala on friday night um multiple individuals in this community
 
-**[39:00]**
+**\[39:00]**
 
 and the council is going to be doing a lot of work on that so i'm going to be doing a lot of work on that
 and a couple of businesses were recognized i'm not going to try and go through the list
@@ -666,7 +668,7 @@ um i hate to say this but the younger people the amount of younger people that w
 only hate to say that because it ages me has nothing to do with the younger generation being
 involved it just ages me a little bit more um and so that was that was a great event we've got a lot
 
-**[40:00]**
+**\[40:00]**
 
 of positive things happening
 um through this community and a lot of people um within the community supporting the whole momentum
@@ -681,7 +683,7 @@ things coming up i think pretty soon um but we're starting to take away at that 
 to see some things come to fruition coming up so you know take a look start planning some things
 one thing that's going to happen on june 27th is a ball uh all the proceeds for the ball are going
 
-**[41:00]**
+**\[41:00]**
 
 to go to wounded warrior
 we do have a speaker from wounded warrior that's going to come down uh the yorkville big band is
@@ -695,7 +697,7 @@ weekend i was invited to go to the celebration of the ordination of the
 citizen for 55 years in lev givesman church in precourt sunday morning and i was very honored
 to be invited to go with he and his wife and i wanted to hear his sermon but afterwards he did a
 
-**[42:00]**
+**\[42:00]**
 
 and he did a great job and he represented our community
 the social time, and all the people at the church were so excited that someone from Dixon
@@ -714,7 +716,7 @@ She does. I can see the sheet.
 I do.
 First and foremost, yes, I want to congratulate.
 
-**[43:00]**
+**\[43:00]**
 
 Our very own Matt Huckman for Citizen of the Year.
 It was a fantastic and well-deserved honor.
@@ -730,7 +732,7 @@ is seeing the younger generation of entrepreneurs, small businesses,
 organizations come in and just thrive.
 And either, A, take a little bit of advice and hear some stories from the people that have been there,
 
-**[44:00]**
+**\[44:00]**
 
 and done that, and then, B, they bring their own flair and excitement to what they bring to this community.
 So to kind of see that co-mingle, and not only that,
@@ -751,7 +753,7 @@ And not only that, we're not just talking the talk.
 Like, people actually believe that.
 So these groups got together and said, hey, let's put together.
 
-**[45:00]**
+**\[45:00]**
 
 Let's put together an event, welcome her back.
 That is just, you know, when people ask what's,
@@ -771,7 +773,7 @@ It's what we do.
 But I think it's really important that we take the time to acknowledge, man,
 that is so much more than just, you know, a job description.
 
-**[46:00]**
+**\[46:00]**
 
 And the fact that we take the time as leaders to acknowledge that
 and to reward that and to be grateful for it says a lot.
@@ -794,7 +796,7 @@ So great event.
 Thankful very much.
 I also have some chief bivots.
 
-**[47:00]**
+**\[47:00]**
 
 We received today the annual report from our police department.
 Fantastic job, Chief.
@@ -812,7 +814,7 @@ And he continued to keep me in touch.
 He and Attorney Lesage have been working on this,
 really waiting for the state to come up with their comprehensive,
 
-**[48:00]**
+**\[48:00]**
 
 comprehensive ideas of how to govern this.
 And it was just released this past week.
@@ -833,7 +835,7 @@ So I don't think it's completely done yet.
 Is that correct?
 It's not past the Senate.
 
-**[49:00]**
+**\[49:00]**
 
 You're close.
 Yeah.
@@ -854,7 +856,7 @@ Authorizing approval of fiscal year 26-27 budget for the city of Dixon.
 Do I have a motion?
 I move to approve the budget for the city of Dixon, Illinois, for the fiscal year beginning May 1st,
 
-**[50:00]**
+**\[50:00]**
 
 2021, 2026, and ending April 30, 2027.
 Motion.
@@ -875,7 +877,7 @@ HR budget, we increased that.
 The contractual line by $3,500.
 There was another part of the HR software that the benefits part that we needed.
 
-**[51:00]**
+**\[51:00]**
 
 So that was $3,500.
 The PR budget, we added $25,000 to the contract for Main Street.
@@ -891,7 +893,7 @@ So those are the changes that were made to the budget.
 I want to note the larger amount from the fuel.
 That's just moving it from this year into next year.
 
-**[52:00]**
+**\[52:00]**
 
 So that's not really a change in what, it's just the timing that's changed on that.
 Anything else?
@@ -913,7 +915,7 @@ Thank you, Becky.
 Thanks, Becky.
 All right.
 
-**[53:00]**
+**\[53:00]**
 
 No other.
 If there's no other questions.
@@ -941,7 +943,7 @@ This was a we referred this to the plan commission earlier.
 I guess last month.
 Actually, last month.
 
-**[54:00]**
+**\[54:00]**
 
 And so, Mr. Shipman, you want to just update us on that?
 Yes.
@@ -969,7 +971,7 @@ Aye.
 Councilman.
 Avenir.
 
-**[55:00]**
+**\[55:00]**
 
 Yes.
 Councilman Bishop.
@@ -994,7 +996,7 @@ That's strictly, they are required to have at least beer and wine available.
 So, they're under our liquor code.
 We currently have three of those, although there's more gaming parlors, several of those
 
-**[56:00]**
+**\[56:00]**
 
 gaming parlors have gone to full licensing.
 This would move the number of licenses from three down to two.
@@ -1009,7 +1011,7 @@ by name.
 Okay.
 So, the one that is not renewing their license, I believe, is Stonewood, correct?
 
-**[57:00]**
+**\[57:00]**
 
 Correct.
 I don't know where Stonewood is.
@@ -1058,7 +1060,7 @@ So, is it to my understanding that if you don't strip that license that becomes 
 ... That license sits there, available.
 Are we diminishing, I guess my question is we're diminishing the license holds from three
 
-**[58:00]**
+**\[58:00]**
 
 to two.
 Two.
@@ -1086,7 +1088,7 @@ All right.
 Any other questions?
 So if we're voting yes on this, we're reducing the number of licenses.
 
-**[59:00]**
+**\[59:00]**
 
 Yeah.
 If we're voting no, we're keeping them at three.
@@ -1104,7 +1106,7 @@ I think one of the, and Rob's not here, but I think one of the bigger things, an
 the mayor brought this to the council, is because the council's direction is that the council
 doesn't want standalone slot machine parlors, and if that's changed, I don't know what this
 
-**[1:00:00]**
+**\[1:00:00]**
 
 will do if you bring this back, though.
 My understanding with a liquor license, if it's available and they meet the requirements,
@@ -1139,7 +1141,7 @@ If this...
 Yeah.
 Just so the council knows, if this license was left open, there would be 25 to 50 applicants.
 
-**[1:01:00]**
+**\[1:01:00]**
 
 Yeah.
 This is something that people do want to do as far as these standalone parlors, because
@@ -1169,7 +1171,7 @@ All right.
 Do I have a motion?
 I move to approve the budget resolution amending the FY25-26 budget with respect to the library.
 
-**[1:02:00]**
+**\[1:02:00]**
 
 Second.
 Motion.
@@ -1199,7 +1201,7 @@ Aye.
 All right.
 Resolution 15B, amending the 25-26 budget relative to municipal ban.
 
-**[1:03:00]**
+**\[1:03:00]**
 
 Do I have a motion?
 I move to approve the budget resolution amending FY25-26 budget with respect to municipal ban contractual.
@@ -1215,7 +1217,7 @@ That covers the spring concert and our St. Patrick's Day parade.
 So the money is being moved out of our operating supplies and some mileage travel money that we did not use this budget year.
 We need multiple
 
-**[1:04:00]**
+**\[1:04:00]**
 
 to cover those expenses.
 So, nothing additional to the budget, just moving within the existing moneys.
@@ -1238,7 +1240,7 @@ Thank you, Mayor.
 So just looking to move some funds within the budget from the police, social worker, medical insurance line item to our uniforms for $3,500 and small tools and equipment for $5,000.
 Okay.
 
-**[1:05:00]**
+**\[1:05:00]**
 
 Any questions?
 Hearing none, roll call, please.
@@ -1266,7 +1268,7 @@ Second, Orris.
 Mr. Magni?
 So we're going to increase operating supplies by $25,000, mostly related to just increased chemical costs for the buildings.
 
-**[1:06:00]**
+**\[1:06:00]**
 
 And then we're increasing information technology by $5,000.
 And that was just to help with the new HVAC.
@@ -1294,7 +1296,7 @@ Mayor Hughes?
 Aye.
 Moving on to motions 16A, discussion and possible approval of an engineering agreement between the city of Dixon and Crawford, Murphy, and Tilly.
 
-**[1:07:00]**
+**\[1:07:00]**
 
 Do I have a motion?
 Motion.
@@ -1310,7 +1312,7 @@ This is an updated version of a construction engineering agreement with Crawford
 So, there were some difficulties between Division of Aeronautics and the contractor getting the construction contracts in place, which has delayed this project.
 There was a previous version of this agreement with CMT approved, I think, in January of 2024.
 
-**[1:08:00]**
+**\[1:08:00]**
 
 So, this is simply an updating of the pricing of the contract.
 This has already been approved by IDOT.
@@ -1331,7 +1333,7 @@ Councilman Orris?
 Aye.
 Councilman Veneer?
 
-**[1:09:00]**
+**\[1:09:00]**
 
 Yes.
 Councilman Bishop?
@@ -1359,7 +1361,7 @@ All right.
 Thank you.
 Do we know anything on behalf of this company?
 
-**[1:10:00]**
+**\[1:10:00]**
 
 This is out in the gateway.
 This is the new coffee place.
@@ -1385,7 +1387,7 @@ I move to approve.
 the redevelopment agreement between the city of dixon and the dixon gateway plaza 2 llc with
 respect to 1611 south galena avenue dixon illinois motion oro second considine mr langloss would you
 
-**[1:11:00]**
+**\[1:11:00]**
 
 take that thank you mayor council um both this agenda item and the next one are the
 are the same conditions of the agreement so both of these redevelopment agreements
@@ -1397,7 +1399,7 @@ which is home to tropical smoothie great clips osf urgent care and there'll be a
 things in there and then the next one is related to the seven brew so the seven brew isn't in the
 multi-tenant correct it's gonna be a standalone just like what you see out in front of menards
 
-**[1:12:00]**
+**\[1:12:00]**
 
 and sterling yep yes sir thank you okay any questions hearing none roll call
 councilman oras aye councilman veneer yes councilman bishop aye
@@ -1413,7 +1415,7 @@ Second.
 Veneer.
 I think Mr. Langloss already summarized this one as well as the other one.
 
-**[1:13:00]**
+**\[1:13:00]**
 
 Are there any additional questions?
 Hearing none, roll call, please.
@@ -1433,7 +1435,8 @@ Hearing none and having completed all items on the agenda, I call this meeting a
 </details>
 
 
----
+
+\---
 
 ## Historical Context and Analysis
 
@@ -1445,7 +1448,7 @@ The April 21 ceremony for Sergeant Dietz, Officer DeHaan, and Officer White cont
 
 **Pedestrian Bridge Naming**
 
-Spencer Thompson's "Petunia Crossing" proposal is the second naming suggestion the council has received. At the May 5, 2025 meeting, a presentation was given on the bridge's cost and funding sources, and the name "Liberty Bridge" was suggested at that time. The bridge project itself has a long planning history; a May 11, 2015 special meeting discussed a TIGER Grant application for the Heritage Crossing phases, including bridge-related transportation improvements. Councilman Venier's suggestion of a broader public naming campaign indicates the question remains open.
+The bridge project itself has a long planning history; a May 11, 2015 special meeting discussed a TIGER Grant application for the Heritage Crossing phases, including bridge-related transportation improvements. Councilman Venier's suggestion of a broader public naming campaign indicates the question remains open.
 
 **LCIDA and Economic Development**
 
@@ -1465,7 +1468,7 @@ The budget approved on April 21 followed a work session process that began at th
 
 **Airport Runway 12-30 Engineering**
 
-The updated agreement with Crawford, Murphy & Tilly for Runway 12-30 rehabilitation continues a long relationship between the city and that engineering firm on airport projects. A construction phase engineering agreement with Crawford, Murphy & Tilly for Runway 12-30 was placed on file at the September 2, 2008 council meeting. The firm also handled construction phase services for Runway 8/26 rehabilitation, approved on October 5, 2020, and the city accepted a bid for the Runway 8-26 lighting project on October 16, 2017. A January 28, 2014 special meeting discussed a five-year airport capital plan and the possibility of engaging new engineering firms, though Crawford, Murphy & Tilly has remained the city's airport engineering partner.
+The updated agreement with Crawford, Murphy \& Tilly for Runway 12-30 rehabilitation continues a long relationship between the city and that engineering firm on airport projects. A construction phase engineering agreement with Crawford, Murphy \& Tilly for Runway 12-30 was placed on file at the September 2, 2008 council meeting. The firm also handled construction phase services for Runway 8/26 rehabilitation, approved on October 5, 2020, and the city accepted a bid for the Runway 8-26 lighting project on October 16, 2017. A January 28, 2014 special meeting discussed a five-year airport capital plan and the possibility of engaging new engineering firms, though Crawford, Murphy \& Tilly has remained the city's airport engineering partner.
 
 **TIF Redevelopment Agreements on South Galena Avenue**
 
@@ -1478,3 +1481,4 @@ Cameron Magni's report on water main replacement and Water Tower 9 recoating con
 **Items Without Significant Prior History in the Excerpts**
 
 The Seven Brew drive-through coffee referral to the Plan Commission, the America 250 event calendar, the e-bike and micromobility legislation tracking, and Public Works Director Heckman's Citizen of the Year recognition do not have directly relevant prior actions in the archived excerpts provided.
+
