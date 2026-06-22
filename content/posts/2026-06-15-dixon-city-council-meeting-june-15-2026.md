@@ -1,8 +1,7 @@
 \---
 
 title: "Dixon City Council Meeting June 15, 2026"
-date: 2026-06-15
-summary: "Dixon City Council Meeting Summary Regular Meeting - Monday, June 15, 2026 Present - Mayor Glen Hughes, Councilman Mary Oros, Councilman Dennis Considine. Absent - Councilman Chris Bishop, Councilman Mike Venier (no quorum issues; business proceed..."
+
 ---
 
 [**Watch the full meeting video**](https://www.facebook.com/share/v/1EgRb57NkA/)
@@ -599,7 +598,8 @@ you
 </details>
 
 
----
+
+\---
 
 ## Historical Context and Analysis
 
@@ -636,3 +636,4 @@ The YMCA has appeared in city records in various contexts, including a temporary
 **EMS Billing**
 
 The decision to outsource EMS billing to Paramedic Billing Services has a recent precursor. At the February 2, 2026 council meeting, Fire Chief Buskohl reported that the department had "started using the new EMS billing system." The current agreement formalizes and extends this transition. Chief Buskohl's description of increasing transport volume and billing complexity as the rationale suggests an operational change that had been developing in recent months.
+
