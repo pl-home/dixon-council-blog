@@ -2029,3 +2029,46 @@ Hearing none.
 Having completed all items on the agenda, I call this meeting adjourned.
 
 </details>
+
+
+---
+
+## Historical Context and Analysis
+
+*This section is generated from the archive of past meeting minutes. It connects tonight's meeting to prior actions by the Dixon City Council and other local bodies. It is separate from the factual summary above.*
+
+**Dixon Historic Theatre Funding**
+
+The Dixon Historic Theatre's request for $200,000 in city funding for FY27 continues a well-documented trajectory. The council first discussed the theatre's funding needs and future plans on February 16, 2021, when Tim Boles presented the theatre's show schedule and funding request. By March 4, 2024, the theatre board formally asked for $250,000 on top of a normal $100,000 request, totaling $350,000, with a presentation on grant renovations, profit margins, and economic development gains. The council majority agreed to the $350,000 figure at its March 6, 2024 budget session. At the February 17, 2026 study meeting, Spencer Aurand presented the theatre's updated financials including 2025 event revenue, facility upgrades, and a capital campaign, and the request was stated as $200,000. At the February 24, 2025 meeting, public commenters Bob Pilling and Judy Webb spoke in support of the theatre. The current meeting's presentation, showing event revenue climbing from $143,000 in 2023 to $494,000 in 2025 and a plan to continue stepping down annual city contributions by $25,000 per year, represents a measurable shift from the peak $350,000 allocation approved just two years ago.
+
+**Discover Dixon and Tourism**
+
+Discover Dixon's annual report to the council is a recurring practice. Jeremy Englund presented the organization's budget and annual report as early as February 3, 2020. Council members have regularly praised the organization's work in their reports: Councilman Venier recognized its tourism efforts on October 7, 2024, and Councilman Oros congratulated Discover Dixon for hosting the Illinois Main Street Conference on November 17, 2025. Multiple council members highlighted its role in events such as Scarecrow Fest on October 20, 2025. The proposed contract increase from $325,000 to $350,000 is a relatively modest change. An earlier budget increase for the tourism department was authorized on April 28, 2015. City Manager Langloss's point that Dixon's combined tourism, Main Street, and Chamber model is drawing statewide interest aligns with remarks by Councilman Venier on October 7, 2024, noting the combined efforts of Discover Dixon and Lee County Tourism to establish the area as a tourism hub.
+
+**Wastewater Treatment Plant Upgrade**
+
+The wastewater treatment plant has been the subject of council attention for well over a decade. As far back as June 6, 2011, the council authorized bids for plant screw pump painting, a project the wastewater manager had requested for three years. The council authorized a SCADA system upgrade agreement with Strand Associates on September 3, 2013. In August 2014, the council waived bidding requirements for an aeration unit impeller. A PLC/HMI upgrade was approved on December 4, 2023, and the council awarded a Rock River armoring project bid to Martin & Company Excavating on November 4, 2024. The current $22-23 million plant upgrade, driven by a 2030 phosphorus limit mandate, represents the largest single investment in the facility reflected in the archived record. The project's progress was also noted in the April 6, 2026 meeting minutes, which confirm that required upgrades have started with monthly project meetings and a target completion date of December 2027, consistent with what Josh McNitt reported at this meeting.
+
+**Liquor Code Amendments for Events**
+
+Annual liquor code amendments for Discover Dixon events are a well-established pattern. The council approved a liquor code amendment for the Dixon City Market on June 4, 2018. A similar amendment for the Dement Town Music Festival was approved on August 21, 2023, and one for the Rock River Garden Club's Bloomin' on the Rock was approved on May 2, 2022. The current batch of amendments covering City Market, the Country Concert, Venetian Night, and Dement Town Music Fest follows this established annual process.
+
+**Budget Public Hearing**
+
+The annual budget public hearing is a routine procedural step. A comparable hearing for the FY21/22 budget was held on April 5, 2021, opened and closed by Councilman Venier with brief discussion. A public hearing on bond issuance was similarly concluded quickly on May 16, 2022. The current hearing, at which no members of the public had questions, follows this pattern.
+
+**Housing Development**
+
+The housing projects referenced in City Manager Langloss's report, including Pirups Landing's 72 new homes and a 55-and-older development, connect to a long-running council priority. Housing was identified as a key goal at the October 10, 2023 council retreat, alongside annexations and the comprehensive plan. City Manager Langloss highlighted housing as a priority in his February 10, 2025 budget overview. The December 2, 2025 study session included discussion of housing and neighborhoods, blighted properties, and a possible rental inspection program. The February 23, 2026 study meeting included an update on housing planning and gateway development. The council's sustained attention to adding housing stock over at least three years of documented discussions is now reaching a construction phase with ground broken at Pirups Landing.
+
+**Resolution Opposing State Preemption of Local Zoning Authority**
+
+The archived excerpts do not contain prior council discussion of Governor Pritzker's proposed "build plan" legislation or any previous resolution on state preemption of local zoning authority. A petition referral to the plan commission regarding zoning ordinance amendments was noted on January 7, 2019, but that concerned a different matter. The current resolution appears to be a new item for the Dixon City Council.
+
+**Proclamations**
+
+Proclamations are a regular feature of Dixon council meetings. Mayor Arellano read proclamations on April 2, 2018, and Councilman Oros read proclamations on behalf of the mayor on March 16, 2020, covering topics such as Human Trafficking Awareness Day and Junior Achievement Day. The April 6, 2026 meeting minutes confirm the same proclamations read at the current meeting, designating April as Child Abuse Awareness and Prevention Month with a presentation to CASA and Shining Star representatives, and Sexual Assault Awareness Month.
+
+**Emergency Management and Grants**
+
+City Manager Langloss's mention of Chief Ryan Bivins serving as interim Emergency Management Director during the recent tornado is corroborated by the April 6, 2026 meeting minutes, which note that Langloss thanked everyone involved in emergency management planning and specifically cited Chief Bivins's role. The archived excerpts do not contain detailed prior discussion of the specific federal grants mentioned (the $400,000 radio grant, $2 million for Bloody Gulch, or $1.4 million for YMCA renovations), though the Bloody Gulch area was referenced in a June 23, 2016 plan commission discussion about road conditions and heavy truck traffic on Bloody Gulch Road.
