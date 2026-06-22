@@ -1,19 +1,21 @@
----
+\---
+
 title: "Dixon City Council Meeting June 15, 2026"
 date: 2026-06-15
 summary: "Dixon City Council Meeting Summary Regular Meeting - Monday, June 15, 2026 Present - Mayor Glen Hughes, Councilman Mary Oros, Councilman Dennis Considine. Absent - Councilman Chris Bishop, Councilman Mike Venier (no quorum issues; business proceed..."
 ---
 
-**[Watch the full meeting video](https://www.facebook.com/share/v/1EgRb57NkA/)**
+[**Watch the full meeting video**](https://www.facebook.com/share/v/1EgRb57NkA/)
 
----
+\---
 
 # Dixon City Council Meeting Summary
+
 ## Regular Meeting — Monday, June 15, 2026
 
 **Present:** Mayor Glen Hughes, Councilman Mary Oros, Councilman Dennis Considine. **Absent:** Councilman Chris Bishop, Councilman Mike Venier (no quorum issues; business proceeded with three voting members).
 
----
+\---
 
 ### Claims and Finances
 
@@ -38,9 +40,10 @@ The council approved disposal of a 2008 Ford F-250 with 123,000 miles from the w
 Mayor Hughes thanked Rachel Kokar (9 years) and Terry Dunphy (15 years) for their service on the Dixon Public Library Board of Trustees, both of whom are stepping down.
 
 Three appointments were approved:
-- **Marcella Kitson** — reappointed for a three-year term. She has served 10 years.
-- **Melinda Mills** — new appointment. A regular library user, community volunteer, and mother of a special needs child.
-- **Leah Stock** — new appointment. A recent Dixon High School graduate who will attend Sauk Valley Community College and plans to remain in the Dixon community. She was present in the audience. Mayor Hughes said he wanted to see more youth involvement on city boards.
+
+* **Marcella Kitson** — reappointed for a three-year term. She has served 10 years.
+* **Melinda Mills** — new appointment. A regular library user, community volunteer, and mother of a special needs child.
+* **Leah Stock** — new appointment. A recent Dixon High School graduate who will attend Sauk Valley Community College and plans to remain in the Dixon community. She was present in the audience. Mayor Hughes said he wanted to see more youth involvement on city boards.
 
 The library board has nine members with staggered terms; three seats were up this cycle.
 
@@ -66,13 +69,14 @@ Councilman Considine praised the Midwest Leadership Summit for drawing visitors 
 
 The meeting adjourned with no executive session and no further business. It was a notably short meeting with no work session and only three council members present.
 
----
+\---
 
 <details>
 <summary><strong>Click to view full transcript</strong></summary>
 
 
-**[7:00]**
+
+**\[7:00]**
 
 we will call them regular meeting council meeting of the city of Dixon
 and we'll see you next week.
@@ -82,7 +86,7 @@ Aye. Mayor Hughes. Here.
 Here. Apologize to those online for our slight delay. Thank you for your
 patience. At this time, please stand for the pledge and remain standing for the invocation.
 
-**[8:00]**
+**\[8:00]**
 
 I pledge allegiance to the flag of the United States of America and to the republic for which
 it stands, one nation, under God, indivisible, with liberty and justice for all.
@@ -95,7 +99,7 @@ All right, do we, we have no work session this evening. Do we have work press se
 Lynn and Nancy. This board is approved to suspend you for two days of three days.
 Do we have any visitor or public comment?
 
-**[9:00]**
+**\[9:00]**
 
 No, I see none.
 Just to make sure.
@@ -119,7 +123,7 @@ Do I have a motion?
 I move that the total labor and outside claims in the amount of $1,834,316.
 37 cents be approved and ordered paid.
 
-**[10:00]**
+**\[10:00]**
 
 Motion.
 Considine.
@@ -152,7 +156,7 @@ Aye.
 Aye.
 Moving on to the approval of year-to-date financials.
 
-**[11:00]**
+**\[11:00]**
 
 Do I have a motion?
 I move that the year-to-date financial summary through May 2026 be accepted.
@@ -179,7 +183,7 @@ Relative to department reports, we do have a summary of the building permits.
 Do we have any other department reports verbal?
 hearing none move on let's move to the city manager's report thank you mayor and council
 
-**[12:00]**
+**\[12:00]**
 
 no report tonight okay this is moving even faster than i thought it was going to
 um
@@ -191,7 +195,7 @@ trustees both of them have
 chosen to step back at this time but they have put in considerable service
 then on a less pleasant note and i mean this literally um we have
 
-**[13:00]**
+**\[13:00]**
 
 two very beautiful amenities added to the city recently one being our
 path from
@@ -202,7 +206,7 @@ going out to seventh but i've had multiple complaints both about the pathway goi
 to seventh and already the bridge crossing the river and the path into page park
 or the infrastructure website our
 
-**[14:00]**
+**\[14:00]**
 
 if we go next though
 people taking their dogs
@@ -226,7 +230,7 @@ summit, you know, it is so
 refreshing to see
 our downtown
 
-**[15:00]**
+**\[15:00]**
 
 Bustling with people that are coming out from that event and to hear from you know
 The speakers as we bring them into this community the partnership that we have with not only the businesses and the sponsorships to help make
@@ -242,7 +246,7 @@ Have something that we put on and that continues to evolve your after year. So t
 Secondly I was I sit on the
 Executive team of the Rotary Board and actually we had a Rotary meeting today and we had women that serve on beautify Dixon
 
-**[16:00]**
+**\[16:00]**
 
 Blooming on the rock
 You know come and talk to us about and the garden the Garden Club come and talk to us about the work that they do
@@ -256,7 +260,7 @@ If you would like to help participate in some of these things, please reach out 
 organizations. Many of these people are aging and continue to do all of the heavy lifting.
 You know, I mean, and really, it'd be nice to, you know, bring other people to the table to help
 
-**[17:00]**
+**\[17:00]**
 
 support and bring the next generation to continue to support these efforts because, man, that,
 you know, it's a lot. So I just wanted to thank everyone involved in that. And I know that
@@ -269,7 +273,7 @@ I move to approve the ordinance authorizing renewal of aggregation program for t
 and authorizing the city manager to sign a competitively bid contract for the retail
 supply of electrical services for residential and small business customers in the city of Dixon.
 
-**[18:00]**
+**\[18:00]**
 
 Motion. Oros. Second. Second. Considine. Mayor and council, I would like to introduce
 a motion to approve the ordinance authorizing renewal of aggregation program for the electrical load.
@@ -289,7 +293,7 @@ So just want to give you the results of that.
 However, I am here today for the Residential Municipal Aggregation Program.
 To give a brief history on this, this provides an alternative electric supplier for residents.
 
-**[19:00]**
+**\[19:00]**
 
 We've ran the program for about 10 plus years now would be my estimate.
 And we used to be able to save residents money.
@@ -306,7 +310,7 @@ And as we were searching, we found the best rate we found for any of our towns f
 So MC squared, your current supplier, offered a one-year rate of $0.955 and a two-year rate of $0.960.
 The current rate right now for ComEd is $0.105, but that doesn't really matter because when the program starts in September, it's going to be about $0.10, $0.996.
 
-**[20:00]**
+**\[20:00]**
 
 In essence, a one-year rate.
 So we need to think about what we can do to ensure that the city of Dixon can guarantee savings of about $50 per resident for one year.
@@ -325,7 +329,7 @@ the program at no penalty no cost any time no you know that's by state law but i
 recognize the comed rate does this now uh this much more than in the last time we ran this
 program so there may potentially be a month or two where the comed rate is actually lower than the
 
-**[21:00]**
+**\[21:00]**
 
 aggregation rate but then there'll be other months where it'll be much much higher in essence comed
 release their rate is 9.96 cents and your rate will be 9.55 cents but if there's ever one or two
@@ -340,7 +344,7 @@ i'll talk to them okay thank you any other questions roll call please councilman
 aye councilman considine aye mary hughes aye
 moving on
 
-**[22:00]**
+**\[22:00]**
 
 moving on
 to 13b ordinance authorizing disposal of certain personal property owned by the city of dixon do i
@@ -354,7 +358,7 @@ a 50,000 miles on it constantly breaking down uh his body is deteriorating rapid
 proszę
 favor is not approved
 
-**[23:00]**
+**\[23:00]**
 
 okay appeal Louise
 that's not approved
@@ -368,7 +372,7 @@ plan limiting the annual rate increase to no more than 2.5 percent per year so
 the purpose of this ordinance is to simplify and to adjust how this year's
 approved increase is applied and to eliminate the ARI which was the
 
-**[24:00]**
+**\[24:00]**
 
 adjusted rate increase
 that was created during the 2020 rate study so after reviewing the financial
@@ -384,7 +388,7 @@ now while avoiding a larger increase for residents in the future
 staff and council will re-evaluate the financial conditions of both funds next year
 otherwise um we are just kind of re restructuring the table within the ordinance
 
-**[25:00]**
+**\[25:00]**
 
 do you have any questions on that i do not i appreciate the communication on how
 to break that down because it can get complicated so to break it down simply understanding that for
@@ -395,7 +399,7 @@ motion i move to approve the ordinance amending dixon city code title 8 chapter 
 water rates motion
 considine do i have a second um it's chapter it's title three i need it to be redone i think
 
-**[26:00]**
+**\[26:00]**
 
 he said 88 didn't he well my my note says eight chapter eight yeah it's chapter eight no title
 title three is what i'm title three chapter eight oh did i misspeak yes yes all right i'll read
@@ -405,7 +409,7 @@ three nine one five water rates thank you thank you sir and or consider second s
 further questions on that this was included in ms mccarter's summary right
 actually that is correct in an emphasis exercised by the common excuse
 
-**[27:00]**
+**\[27:00]**
 
 so our goal here today is really about talking ourłby asking for that resolution
 and in that instance there's no further mobilization for the initiative
@@ -423,7 +427,7 @@ Marcella has served on the Library Board for the last 10 years, and she has indi
 me that she would very much like to continue, so I am happy to be able to reappoint her.
 If there's any questions.
 
-**[28:00]**
+**\[28:00]**
 
 Hearing none, roll call.
 Councilman Orris.
@@ -450,7 +454,7 @@ Melinda Mills will be, I'm appointing her to take one of those seats of the two 
 that's stepping down.
 I have had some very nice conversations with Melinda.
 
-**[29:00]**
+**\[29:00]**
 
 She uses the library regularly.
 She has a special needs child.
@@ -471,9 +475,9 @@ Do I have a motion?
 I move to appoint Leah Stock to the Dixon Public Library Board of Trustees for a term commencing July 1, 2026 and ending June 30, 2029, or until her successor is duly appointed.
 Oro.
 Does this site provide aаться security policy until June 23th, 2029, or until her successor is duly appointed and qualified?
-Motion to approve and to 블�L
+Motion to approve and to 블L
 
-**[30:00]**
+**\[30:00]**
 
 Motion Oro.
 Do I have a second.
@@ -487,7 +491,7 @@ the Dixon community and I think from the gist of my conversation with her she in
 in the Dixon community after graduation so she does happen to be sitting in our audience
 this evening so if you've got any questions she can better answer them than I can so
 
-**[31:00]**
+**\[31:00]**
 
 that's exciting thank you for doing that yeah I do have a question how many members are on that board
 again and do their terms it seems like a lot of their terms came up all at once actually we've got
@@ -498,7 +502,7 @@ got right now that we've got three thank you each year all right all right seeme
 um any further questions roll call please councilman Oros aye councilman Considine aye
 Mayor Hughes aye and resolution 14d confirming reappointment to the City of Dixon Zoning Board
 
-**[32:00]**
+**\[32:00]**
 
 of Appeals. Do I have a Motion? I move to reappoint Cynthia Adcock to the Dixon
 excuse me Adcock to the City of Dixon Zoning Board
@@ -509,7 +513,7 @@ this is one of our boards that meets rather erratically um the term sounds a lon
 five years but since it meets rather erratically it's probably not as pressing as some of our
 boards that are consistently meeting and and therefore um five years provides some stability
 
-**[33:00]**
+**\[33:00]**
 
 and some continuity in those discussions any questions hearing none roll call please
 councilman oros
@@ -520,7 +524,7 @@ hundred and thirteen dollars motion oral second constantine mr magny yeah so thi
 of a 2026 gmc it's going to replace the ford we're going to trade that in this price includes the
 3500 for trade-in and 3900 in bed assist okay any questions on that um this does come in at
 
-**[34:00]**
+**\[34:00]**
 
 uh under 4800 under the under the budgeted amount so that's always good yeah and plus it's local
 you know how i am for that yes any other questions of cameron
@@ -532,7 +536,7 @@ of a redevelopment agreement do i have a motion i move to approve the redevelopm
 between the city of dixon and the dixon families why excuse me and the dixon family young men's
 christian association motion considine or second orris
 
-**[35:00]**
+**\[35:00]**
 
 thank you young lady
 i think you still had a lot going on i think there's going to be some
@@ -544,7 +548,7 @@ between the YMCA and our developer Dixon Land Group and so the appropriate
 paperwork to be filed was not completed as such we've decided to enter into an
 agreement with the Dixon family YMCA and the amount and this amount for the
 
-**[36:00]**
+**\[36:00]**
 
 purchase of the property and this amount is the amount of the property tax due
 this agreement has been written so that we will pay the county directly on
@@ -557,7 +561,7 @@ titling difference between the Dixon Land Group and subsequent sale to the
 YMCA correct yes sir yes the the property tax bill would have gone to
 Dixon Land Group and I think it's also important to note that if in fact the
 
-**[37:00]**
+**\[37:00]**
 
 YMCA a not-for-profit did pay property tax we would have entered into a
 substantial TIF agreement with them up front but since they don't pay
@@ -572,7 +576,7 @@ between the city of Dixon and paramedic billing services incorporated with
 respect to billing of emergency medical services transports motion
 Considine do I have a second second second Oros chief Busco yes thank you
 
-**[38:00]**
+**\[38:00]**
 
 mayor so a fire department is seeking a motion allowing you to sign an
 agreement with paramedic billing services incorporated that is an
@@ -585,7 +589,7 @@ to be best practice going forward setting us up for success into the
 future okay any other questions hearing none roll call councilman Oros aye
 councilman Considine aye mayor Hughes aye is there any other discussion for
 
-**[39:00]**
+**\[39:00]**
 
 the good of the cause or the community
 hearing none and having gone through all the items on the agenda I call this
@@ -595,22 +599,4 @@ you
 </details>
 
 
----
 
-## Historical Context and Analysis
-
-*This section is generated from the archive of past meeting minutes. It connects tonight's meeting to prior actions by the Dixon City Council and other local bodies. It is separate from the factual summary above.*
-
-Several members of the current council have long histories of service in Dixon city government, and the archived records help illustrate that continuity.
-
-**Council Composition and Continuity of Service**
-
-Councilman Dennis Considine's tenure on the council extends back more than a decade. He appears in the roll call of the April 1, 2013 regular meeting, when he served as a commissioner under Mayor Burke. He continued serving through the transition to the council-manager form, appearing at the December 3, 2018 meeting under Mayor Arellano and again at the June 7, 2021 meeting. His presence at the current June 15, 2026 meeting, now under Mayor Glen Hughes, marks at least his third mayoral administration as a sitting member.
-
-Councilman Mary Oros is recorded as present at the June 7, 2021 regular meeting under Mayor Arellano, indicating she has served on the council for at least five years heading into the current meeting.
-
-Councilman Mike Venier, absent from the current meeting, was present at the December 3, 2018 meeting and was noted as absent from the June 7, 2021 meeting as well. His pattern of occasional absences appears in earlier records, though the council has consistently maintained a quorum regardless.
-
-Councilman Chris Bishop, also absent from the current meeting, was present at the June 7, 2021 meeting.
-
-The archived excerpts do not contain material related to specific agenda items from the current meeting, so no topical historical connections can be drawn from these records. The excerpts do, however, show a notable shift in meeting structure over time: meetings under Mayor Burke in 2010 and 2013 were held at 6:30 p.m. with members referred to as commissioners, while meetings from 2018 onward under Mayor Arellano began at 5:30 p.m. with members referred to as councilmen, reflecting Dixon's change in governmental form. The current meeting continues that later format.
