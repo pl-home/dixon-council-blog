@@ -31,10 +31,10 @@ Jonathan Slager spoke about civility and respectful disagreement. He praised Chi
 
 ## Records system moves to the cloud
 
-The council approved moving the city's Laserfish document-management system to a cloud-based "municipality" license. The vote was 5-0.
+The council approved moving the city's Laserfiche document-management system to a cloud-based "municipality" license. The vote was 5-0.
 
 IT Manager Allen Philhower gave these reasons for the change:
-- **Support deadlines:** Support for the city's current version ends Dec. 30 of this year. Laserfish will end all support for in-house systems in December 2030.
+- **Support deadlines:** Support for the city's current version ends Dec. 30 of this year. Laserfiche will end all support for in-house systems in December 2030.
 - **Unexpected licensing requirement:** The city had planned the move since August 2025. It later learned that the security-compliance add-on it needs for certain protected data requires the more expensive municipality license.
 - **Cost:** The first-year cost is $30,714.05, and the three-year total is about $97,900. Philhower estimated that staying with the in-house system would cost at least $28,000 this year, without the added features of the cloud version.
 
@@ -50,7 +50,7 @@ The council voted 5-0 to sell 502 W. Seventh St. to Dixon Habitat for Humanity, 
 
 ## Independence Court rezoning
 
-The council voted 5-0 to rezone Lot 15 of Independence Court Phase 2 from general business (B2) to two-family residential (R2). Andrew Robertson of Robertson Construction and Development plans to build a duplex there, similar to one he just finished on the neighboring lot. The Plan Commission had recommended approval.
+The council voted 5-0 to rezone Lot 15 of Independence Courts Phase Two from general business (B2) to two-family residential (R2). Andrew Robertson of Robertson Construction and Development plans to build a duplex there, similar to one he just finished on the neighboring lot. The Plan Commission had recommended approval.
 
 ## Budget amendment and library grant
 
@@ -72,7 +72,7 @@ The council approved each of the following 5–0 by roll call:
 - **Sports:** Hughes congratulated the cross country teams, which are headed to state; the boys team took first at sectionals. The Dukes football team won its second-round playoff game and plays Coal City on Saturday. Venier also congratulated the team.
 - **Government Day:** Oros thanked Bishop for inviting council members to Government Day at Reagan Middle School. She said several students asked to attend a council meeting to offer ideas on housing.
 
-The council then voted 5-0 to go into executive session to discuss pending litigation. No action was reported afterward.
+The council voted 5–0 to go into executive session to discuss pending litigation. The minutes record a 5–0 vote to return to open session and adjournment at 6:55 p.m.
 
 ---
 
@@ -732,7 +732,7 @@ The city's rules on burning have come before the council before. Minutes from th
 
 ## Cloud-based systems and IT Manager Philhower
 
-The Laserfish decision follows earlier moves toward hosted software. On April 4, 2016, the council approved a cloud implementation contract with Ramaker & Associates for the Oakwood Cemetery information management system; IT Manager Philhower presented it and cited a fee of $1,200 per year for hosting and licensing. On Feb. 17, 2026, the council heard that some city systems were moving from in-house servers to cloud-based servers when cost effective, with benefits including less storage and software on the city's internal system.
+The Laserfiche decision follows earlier moves toward hosted software. On April 4, 2016, the council approved a cloud implementation contract with Ramaker & Associates for the Oakwood Cemetery information management system; IT Manager Philhower presented it and cited a fee of $1,200 per year for hosting and licensing. On Feb. 17, 2026, the council heard that some city systems were moving from in-house servers to cloud-based servers when cost effective, with benefits including less storage and software on the city's internal system.
 
 Records systems in other departments have also come before the council. A records management system for the police department, the Spillman Flex system, was approved on Nov. 4, 2019. Body cameras, records management and storage were discussed by Police Chief Howell and Philhower on Feb. 17, 2022.
 
@@ -761,3 +761,15 @@ The rezoning of Lot 15 from business to two-family residential appears to be new
 ## Library grant
 
 The resolution authorizing the city manager to sign the USDA grant for the library renovation appears to be new.
+
+---
+
+## Verification against published minutes
+
+*Added 2026-11-24 14:43-06:00.*
+
+I checked this recap against the public minutes in the [November 16 agenda packet](https://www.dixongov.com/documents/agendas-docs/city-council-agendas/2026-city-council-agenda/11-16-26-council-meeting-agenda-packet/?layout=file#page=3), PDF pages 3–6 (printed pages 52–55). The packet pages still carry a draft watermark. On November 16, the council voted **5–0** to accept the November 2 regular and executive-session minutes and place them on file. The chair asked for corrections and received none. See the [November 16 recording](https://www.facebook.com/dixon.il/videos/1159202959857765/) at **24:20**. This check covers the regular meeting recap.
+
+- The minutes confirm the **5–0** library grant vote and **$210,000** grant, the **$57,500** Fehr Graham agreement ceiling, **$1,862,912.35** in claims, and the **5–0** votes on the software license, Habitat lot sale, rezoning, budget amendment, and routine business.
+- I corrected **Laserfiche** and the formal subdivision name **Independence Courts Phase Two**. The minutes record a **5–0** vote to reconvene in open session and adjournment at **6:55 p.m.** I added that procedural step to the recap.
+- The minutes summarize public comments and discussion briefly. The fuller accounts and additional itemized costs in the recap come from the recording.
