@@ -18,7 +18,7 @@ Mayor Hughes opened with a proclamation declaring October 2026 as Domestic Viole
 
 ## Claims Approved
 
-The council unanimously approved total labor and outside claims of approximately $1.51 million. The largest single item was a payment on the wastewater treatment plant improvement project; the exact dollar amount of that line item was not clearly captured in the audio.
+The council unanimously approved total labor and outside claims of $1,513,971.02. The largest single item was a payment on the wastewater treatment plant improvement project; the exact dollar amount of that line item was not clearly captured in the audio.
 
 ## Sister City Visit to Germany
 
@@ -31,8 +31,8 @@ Mayor Hughes reported on his recent trip to Herzberg, Germany, Dixon's sister ci
 **Councilwoman Mary Oros** recognized Justin Bergman, director of the Small Business Development Center at Sauk Valley Community College, who received the Illinois State Star award for his leadership. Oros praised the center as a free resource for local entrepreneurs and existing business owners.
 
 **Councilman Mike Venier** covered several items:
-- He congratulated Bunnell Industries on a ribbon cutting for a new 100,000-square-foot manufacturing facility, noting the company's 66 years in business and 109 employees.
-- He announced a golf cart tour of the city's new trail for seniors and those unable to walk it, scheduled for October 13 from 9 a.m. to 1 p.m., starting near the Emma Hubs Tennis Courts.
+- He congratulated Bonnell Industries on a ribbon cutting for a new 100,000-square-foot manufacturing facility, noting the company's 66 years in business and 109 employees.
+- He announced a golf cart tour of the city's new trail for seniors and those unable to walk it, scheduled for October 13 from 9 a.m. to 1 p.m., starting near the Emma Hubbs Tennis Courts.
 - He mentioned the mural on the Water Department building features "Visions of the Rock," depicting scenes indigenous to the Rock River.
 - He reminded residents of the Ultimate Tailgate event (Bears-Packers, ribs and chili cook-off) on Sunday in the Bean Blossom parking lot, and Scarecrow Fest on October 17.
 - He noted Dixon's 200th anniversary is approaching in a couple of years and said the municipal band is working on a commemorative song.
@@ -435,3 +435,15 @@ The referral of a zoning amendment petition for Lot 15 of Liberty Court to the P
 **Claims**
 
 Approval of labor and outside claims is a routine action at every regular council meeting. The $1.51 million total approved at this session is notably larger than amounts documented in earlier meetings, such as $292,731.10 on March 21, 2022 and $390,305.36 on October 3, 2011, reflecting in part the ongoing wastewater treatment plant improvement project, which accounted for the largest single line item.
+
+---
+
+## Verification against published minutes
+
+*Added 2026-11-24 14:43-06:00.*
+
+I checked this recap against the public minutes in the [October 19 agenda packet](https://www.dixongov.com/documents/agendas-docs/city-council-agendas/2026-city-council-agenda/101926-council-meeting-agenda-packet/?layout=file#page=5), PDF pages 5–7 (printed pages 44–46). The packet pages still carry a draft watermark. On October 19, the council voted **5–0** to accept the October 5 minutes and place them on file. The chair asked for corrections and received none. See the [October 19 recording](https://www.facebook.com/dixon.il/videos/1801896537675029/) at **21:05** and the city's [October 19 minutes](https://www.dixongov.com/documents/agendas-docs/city-council-agendas/2026-city-council-agenda/10-19-26-council-meeting-minutes-1/?layout=file), printed page 47.
+
+- The minutes confirm unanimous approval of the claims, tailgate liquor ordinance, chronic nuisance ordinance amendment, and zoning referral. The exact claims total was **$1,513,971.02**, consistent with the recap's original rounded figure.
+- I corrected the spellings to **Bonnell Industries** and **Emma Hubbs Tennis Courts** from printed page 45.
+- The minutes also record a unanimous vote to approve the September 21 minutes. The original recap omitted that routine item. The minutes give the claims total and leave the individual wastewater payment amount unlisted.
