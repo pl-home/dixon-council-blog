@@ -30,7 +30,7 @@ The comments drew a pointed response from Councilman Dennis Considine, who calle
 
 ## Public Works Update
 
-Public Works Director Matt Heckman delivered a progress report on several projects:
+Public Works Director Matt Huyett delivered a progress report on several projects:
 
 - **Street resurfacing** is underway, with paving roughly 15-20% complete. City crews handled extensive concrete work in-house — more than 1,000 feet of sidewalk and 21 driveway approaches — saving the city an estimated $100,000. Heckman praised the street and water crews by name for stepping up on short notice.
 - **2nd Street Stone Arch rehabilitation** has been paused until spring due to drainage problems discovered during construction. Engineers are designing a permanent fix.
@@ -58,12 +58,12 @@ Fire Chief Ryan Buskohl reported on a busy fall season:
 
 ## Votes and Approvals
 
-All items passed, though the roll-call votes for some items were not clearly captured in the audio:
+The published minutes record a 5–0 vote on each approval below:
 
 - **Total labor and outside claims** of $612,875.73, including an IEPA loan payment and well painting costs.
 - **Year-to-date financials** through August 2026.
 - **Three budget amendments** involving internal fund shifts for police promotional exams ($12,250 total), police office supplies, and insurance line items — all involving no new money.
-- **Reappointment** of four members and **appointment** of Al Wyckoff to the Veterans Memorial Park Commission.
+- **Reappointment** of four members and **appointment** of Al Wikoff to the Veterans Memorial Park Commission.
 - **Airport hangar rehabilitation** awarded to Boss Roofing and Siding Experts for $27,737.67 — well under the $40,000 budget. A second bid came in at $79,800.
 - **Insurance min-max premium agreement** with the Illinois Municipal League Risk Management Association, locking in a minimum premium of $370,363 versus a traditional premium that would have been roughly $473,000. The city has saved approximately $450,000 over seven years through this approach.
 - **Wastewater treatment plant storage building** awarded to NICAM Construction for $2,295,000. The project was budgeted at $2 million; the overage will be covered from existing capital fund balances. Councilman Considine, who has been waiting on a similar cemetery building, made sure to note his concern about prioritization but was assured the cemetery project remains on track.
@@ -1042,3 +1042,21 @@ This appears to be a new proclamation for the Dixon City Council. While Mayor Hu
 **Other Items**
 
 The Fargo Creek culvert project, the Dimco properties and Moxie building demolition, the 2nd Street Stone Arch rehabilitation, the wastewater treatment plant storage building, and the insurance agreement with the Illinois Municipal League Risk Management Association do not have directly relevant prior council actions leading up to this meeting.
+
+---
+
+## Verification against published minutes
+
+*Added 2026-11-24 19:10-06:00.*
+
+I checked this recap against the city's [October 19 published minutes](https://www.dixongov.com/documents/agendas-docs/city-council-agendas/2026-city-council-agenda/10-19-26-council-meeting-minutes-1/?layout=file), printed pages 47–51.
+
+### Discrepancy in the festival attendance estimate
+
+The minutes say **800–900** visitors (printed page 49). In the [meeting recording](https://www.facebook.com/dixon.il/videos/1801896537675029/?t=2912), at about **48:32**, Councilman Mike Venier says **8,000–9,000** visitors. The recap attributes that estimate to Venier. The two records give different estimates.
+
+### Corrections and details supported by the minutes
+
+- I corrected Public Works Director **Matt Huyett** and appointee **Al Wikoff**, as recorded on printed pages 48 and 50. The city also identifies Huyett as its [Public Works Director](https://www.dixongov.com/content/departments/public-works/).
+- The minutes record **5–0** votes on the listed approvals. They confirm **$612,875.73** in claims, the **$27,737.67** airport hangar bid, the **$77,500** ceiling for the Fehr Graham agreement, and the **$2,295,000** wastewater storage building award.
+
